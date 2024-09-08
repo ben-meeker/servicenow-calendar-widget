@@ -2,14 +2,14 @@
 .fc td,.fc th {
     border-color: #309C42;
     background-color: #ffffff;
-  }
+}
   
-  .fc-left {
-    color: #212121;
-    font-family: 'GT Super Text';
-  }
-  
-  .fc button {
-    border-color: #309C42;
-    background-color: #ffffff;
-  }
+.fc-left {
+color: #212121;
+font-family: 'GT Super Text';
+}
+
+.fc button {
+border-color: #309C42;
+background-color: #ffffff;
+}
